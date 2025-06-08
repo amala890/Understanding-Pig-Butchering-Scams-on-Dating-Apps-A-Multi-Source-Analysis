@@ -130,6 +130,64 @@ PlentyOfFish	  0	              2	                  2	           3
 MeetMe	        0	              0	                  5	           0
 
 5. Emotional and Financial Impacts
+Calculates the financial and emotional harm
+Uses keyword filtering
+
+**Results**
+Total financial Loss mentioned: 276
+Total emotional harm mentioned: 177
+
+AppName      Financial Loss Mention 
+Tinder          71
+Bumble          40
+OkCupid         21
+
+
+AppName       Emotional Harm Mentions 
+ Tinder          44
+ Bumble          33
+ OkCupid         17
+
+6. App-Specific Trends
+Discusses Complaints about scam detection and User Suggestions for Safety Improvements
+
+**Results**
+Complaints about scam detection (8532)
+User Suggestions for Safety Improvements (243)
+Rank	 App Name	 Poor Detection	 Safety Suggestions	
+1	    Tinder	        1,620	          55	
+2	    PlentyOfFish	  851	            7	
+3	    Once	          506	            1	
+4	    Okcupid	       503	            6	
+5	    Bumble	        433	            49	
+
+7. Low Score Indicators
+Reviews with a “score” field of 1 or 2 are more likely to mention dissatisfaction or scams. 
+
+**Results**
+ Score = 1       158,798 (95.36%)
+ Score = 2       7,731 (4.64%)
+
+ 8. High “ThumbsUp” Count
+Reviews with a large number of likes or thumbs up might highlight widespread issues, including scams. 
+
+**Results**
+ App                    ThumbsUpCount
+ Bumble                    2,267
+ Zoosk                     2,247
+ Tinder                    1,871
+ OkCupid                   1,706
+
+ 9. Response from Developers
+Check the “replyContent” field for any official responses that acknowledge scams or fraudulent activity.
+AppName      Response Count
+ Bumble          3394
+ Tinder          2237
+ Tantan          1448
+ Waplog          1297
+
+
+
 
 
 
