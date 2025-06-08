@@ -5,6 +5,7 @@
 Collected review data from 100 dating apps
 Used rule-based keyword filtering
 Used google_play_scraper library in python using app_id
+CSV files are named using corresponding dating app names
 Collected reviewId	userName	userImage	content	score	thumbsUp	appVersion	at	replyContent	repliedAt	scam_related	is_scam	sentiment	app_name	thumbsUpCount	reviewCreatedVersion
 
 
@@ -22,15 +23,126 @@ Collected Subreddit	Title	ID	Author	URL	Content	Image
 
 **Instagram:**
 Query using Hashtags through instagraphi
-username	caption	media_path	post_url	likes	comments
+Used rule-based keyword filtering
+Ciollected username	caption	media_path	post_url	likes	comments
 
 **Twitter:**
 Collected using Twitter API and nitter
 Query using Hashtags
+Used rule-based keyword filtering
 link	text	user	likes	quotes	retweets	comments
 
 # Analysis
 ## Google Play Store
+ Divided into 9 main sections:
+1. Scam Indicators in User Reviews
+User reviews were grouped based on the presence of scam-related keywords.
+This serves as the ground truth data for further analysis.
+Total scam-related reviews collected : 249722
+These reviews were grouped across 100 dating apps, sorted by increasing number of scam-related reviews per app.
+
+**Results**
+AppName                     Scam Review Count
+ Tinder                          31,391
+ Bumble                          21,253
+ OkCupid                         17,112
+ Zoosk                           15,955
+ Plenty of Fish                  12,844
+
+ 2. Profile and Behavioral Characteristics
+Used Keyword filtering on the the previously resulted dataset.
+Six key scam-related characteristics were identified based on qualitative and keyword
+based analysis of dating app user reviews:
+ • Generic Profile Pictures– Reports of profiles using overly attractive or stock-style
+ images.
+ • Claims of Living Abroad– Mentions of users who state they live or work in
+ another country.
+ • Inconsistent Profile Information– Comments highlighting mismatched details
+ between profile descriptions and actual conversation.
+ • Pushing Investment Opportunities– Reviews noting that a user persistently
+ promoted financial schemes or trading.
+ • Shifting Conversations to Off-Platform Channels– Observations that the user
+ insisted on moving to WhatsApp, Telegram, etc.
+ • Avoiding Video Calls or In-Person Meetings– Complaints about users who
+ repeatedly made excuses to avoid face-to-face communication.
+
+**Results**
+• Generic Profile Pictures (7)
+The apps that have the most mentions for these features are Once (2 mentions), Tinder (1 mention), Bumble(1 mention), Badoo (1 mention), Happn (1 mention), and Plenty Of Fish (1 mention).
+• Claims of Living Abroad (15)
+OkCupid(4 mentions),DilMil(2 mentions), where Once, Bumble, Tinder, Jaumo, Scruff, eHarmony, The Inner Circle each have 1 mention. 
+• Inconsistent Profile Information
+Total Inconsistent Profile Information Mentions Count: 27570
+AppName                   Inconsistent Profile Mentions Count
+ Tinder                              4,305
+ Plenty Of Fish                      2,810
+ OkCupid                             1,824
+ Hinge                               1,691
+ Zoosk                               1,416
+ • Pushing Investment Opportunities (1030)
+ AppName                       Mentions of Investments
+ Tantan                              226
+ Tinder                              210
+ Plenty Of Fish                      79
+ Hinge                               63
+ Happn                               48
+ • Shifting Conversations to Off-Platform Channels (29)
+ Dating app Once has reported the highest number of this scam, which is 5 people mentioned about this, followed by OkCupid, Tantan, Bumble with 2 mentions. Other   apps such as Taimi, Date My Age, Grindr, Yoomee, Teamo, Vibe, Amolatina have 1 mention each.
+ • Avoiding Video Calls or In-Person Meetings (2)
+This behavioral trait was less frequently mentioned than other scam indicators but still surfaced in reviews from a few major platforms like Tantan and Bumble. 
+
+ AppName                       Total Mentions (All6RedFlagsCombined)
+ Tinder                                  4,517
+ OkCupid                                 1,862
+ Zoosk                                   1,437
+ Bumble                                  1,606
+ Hinge                                   1,757
+
+3. Timing Patterns
+Define Keywords for Timing & Escalation
+Grouped into Quick Escalation, Delayed Escalation and No Mention
+
+**Results**
+ Escalation Categories                   Reviews Analyzed
+ Quick Escalation                             222
+ Delayed Escalation Mentions                  164
+ No Mention                                   249,336
+ Overall Escalation Ratio                     50.21
+
+app_name	delayed_escalation	no_mention	quick_escalation
+Tinder	        26	             31321	        44
+Bumble          19	             21197	        37
+Okcupid	        16	             17069	        27
+
+4. Platforms Linked in Reviews
+Grouped into financial platforms and communication platforms
+
+**Results**
+Platform Type           Total Mentions
+Crypto Wallets                2
+Investment Sites              12
+Suspicious Links              58
+WhatsApp                      23
+
+app_name	crypto_wallets	investment_sites	suspicious_links	whatsapp
+Tinder	        0	              5	                  4	           2
+PlentyOfFish	  0	              2	                  2	           3
+MeetMe	        0	              0	                  5	           0
+
+5. Emotional and Financial Impacts
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
