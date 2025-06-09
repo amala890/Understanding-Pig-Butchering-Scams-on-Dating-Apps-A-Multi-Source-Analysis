@@ -37,17 +37,17 @@ link	text	user	likes	quotes	retweets	comments
  Divided into 9 main sections:
 1. Scam Indicators in User Reviews <br>
 User reviews were grouped based on the presence of scam-related keywords.
-This serves as the ground truth data for further analysis.
-Total scam-related reviews collected : 249722
+This serves as the ground truth data for further analysis. <br>
+Total scam-related reviews collected : 249722 <br>
 These reviews were grouped across 100 dating apps, sorted by increasing number of scam-related reviews per app.
 
 **Results**
 AppName                     Scam Review Count
- Tinder                          31,391
- Bumble                          21,253
- OkCupid                         17,112
- Zoosk                           15,955
- Plenty of Fish                  12,844
+ Tinder           <br>               31,391
+ Bumble            <br>              21,253
+ OkCupid           <br>              17,112
+ Zoosk              <br>             15,955
+ Plenty of Fish      <br>            12,844
 
  2. Profile and Behavioral Characteristics
 Used Keyword filtering on the the previously resulted dataset.
