@@ -54,7 +54,6 @@ Based on qualitative insights and keyword-based analysis of user reviews, six re
    Users frequently reported that scammers made repeated excuses to avoid video calls or real-life meetings, maintaining an anonymous and untraceable presence.
 
 
-**Results**
 **• Generic Profile Pictures** (7 Mentions)
 Reports of overly attractive or stock-style profile photos.
 
@@ -115,11 +114,6 @@ Apps where this was mentioned:
 - **Once** – 5 mentions  
 - **OkCupid**, **Tantan**, **Bumble** – 2 mentions each  
 - **Taimi**, **Date My Age**, **Grindr**, **Yoomee**, **Teamo**, **Vibe**, **Amolatina** – 1 mention each
-
-In addition to previously identified scam indicators, further analysis uncovered a less frequent but relevant behavioral trait: 
-**Avoiding Video Calls or In-Person Meetings**. Timing patterns in scam progression were also studied to understand how quickly scammers escalate interactions.
-
----
 
 **• Avoiding Video Calls or In-Person Meetings** (2 Mentions)
 This behavioral trait was mentioned less frequently than others, but still appeared in reviews, suggesting a known avoidance tactic by scammers.
@@ -337,19 +331,22 @@ Collected reviewId	userName	userImage	content	score	thumbsUpCount	reviewCreatedV
 # Social Media Platforms
 
 **Reddit:**
-Query cerain subreddits using PRAW
-Used rule-based keyword filtering
-Collected Subreddit	Title	ID	Author	URL	Content	Image
+
+Query cerain subreddits using PRAW <br>
+Used rule-based keyword filtering <br>
+Collected Subreddit	Title	ID	Author	URL	Content	Image 
 
 **Instagram:**
-Query using Hashtags through instagraphi
-Used rule-based keyword filtering
+
+Query using Hashtags through instagraphi <br>
+Used rule-based keyword filtering <br>
 Ciollected username	caption	media_path	post_url	likes	comments
 
 **Twitter:**
-Collected using Twitter API and nitter
-Query using Hashtags
-Used rule-based keyword filtering
+
+Collected using Twitter API and nitter <br>
+Query using Hashtags <br>
+Used rule-based keyword filtering <br>
 link	text	user	likes	quotes	retweets	comments
 
 ## Analysis
