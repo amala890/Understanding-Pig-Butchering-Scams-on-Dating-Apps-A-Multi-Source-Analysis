@@ -1,6 +1,6 @@
 # Understanding Pig Butchering Scams Targeting Dating App Users: A Multi-Source Analysis
 
-# Data Sources
+
 ## Google Play Store Reviews
 Collected review data from 100 dating apps
 Used rule-based keyword filtering
@@ -8,29 +8,6 @@ Used google_play_scraper library in python using app_id
 CSV files are named using corresponding dating app names
 Collected reviewId	userName	userImage	content	score	thumbsUp	appVersion	at	replyContent	repliedAt	scam_related	is_scam	sentiment	app_name	thumbsUpCount	reviewCreatedVersion
 
-
-## Public Dataset
-Apps: Tinder, Bumble, Plenty of Fish, Hinge
-Collected reviewId	userName	userImage	content	score	thumbsUpCount	reviewCreatedVersion	at	replyContent	repliedAt	appVersion
-
-
-## Social Media Platforms
-
-**Reddit:**
-Query cerain subreddits using PRAW
-Used rule-based keyword filtering
-Collected Subreddit	Title	ID	Author	URL	Content	Image
-
-**Instagram:**
-Query using Hashtags through instagraphi
-Used rule-based keyword filtering
-Ciollected username	caption	media_path	post_url	likes	comments
-
-**Twitter:**
-Collected using Twitter API and nitter
-Query using Hashtags
-Used rule-based keyword filtering
-link	text	user	likes	quotes	retweets	comments
 
 # Analysis
 ## Google Play Store
@@ -349,15 +326,34 @@ These results suggest that **some platforms are actively engaging** with users t
 
 [Google Play Store Results](https://docs.google.com/spreadsheets/d/1F_fKnJPWhuJjJUiX6J8HUmy67MvxfGvHm_3dNucsKa4/edit?usp=sharing)
 
+## Public Dataset
+Apps: Tinder, Bumble, Plenty of Fish, Hinge
+Collected reviewId	userName	userImage	content	score	thumbsUpCount	reviewCreatedVersion	at	replyContent	repliedAt	appVersion
 
-# Public Dataset
+# Analysis
 
 [Public Dataset Results](https://docs.google.com/spreadsheets/d/1_DDtXt-oNUFR8MkBBvxaI7PFHQb97AGdy9864VK-8oQ/edit?usp=sharing)
 
 
-
-
 ## Social Media Platforms
+
+**Reddit:**
+Query cerain subreddits using PRAW
+Used rule-based keyword filtering
+Collected Subreddit	Title	ID	Author	URL	Content	Image
+
+**Instagram:**
+Query using Hashtags through instagraphi
+Used rule-based keyword filtering
+Ciollected username	caption	media_path	post_url	likes	comments
+
+**Twitter:**
+Collected using Twitter API and nitter
+Query using Hashtags
+Used rule-based keyword filtering
+link	text	user	likes	quotes	retweets	comments
+
+# Analysis
 To enrich the understanding of pig butchering scams beyond app store reviews, data was collected from Reddit, Instagram, and Twitter (X). The following scam-related scenarios were extracted using rule-based keyword filtering, applied to the content field of each post or comment:
 1. Scammer Personas
 2. Common Tactics by Scammers
