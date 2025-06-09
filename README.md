@@ -12,7 +12,7 @@ Collected reviewId	userName	userImage	content	score	thumbsUp	appVersion	at	reply
 ## Analysis
 
  Divided into 9 main sections:
-# 📌 1. Scam Indicators in User Reviews
+## 📌 1. Scam Indicators in User Reviews
 User reviews were grouped based on the presence of scam-related keywords. <br>
 This serves as the ground truth data for further analysis. <br>
 Total scam-related reviews collected : 249722 <br>
@@ -30,7 +30,7 @@ These reviews were grouped across 100 dating apps, sorted by increasing number o
 | Plenty of Fish  | 12,844            |
 
 
-# 👤 2. Profile and Behavioral Characteristics
+## 👤 2. Profile and Behavioral Characteristics
 Used Keyword filtering on the the previously resulted dataset.
 
 Based on qualitative insights and keyword-based analysis of user reviews, six recurring characteristics associated with pig butchering scams were identified:
@@ -144,7 +144,7 @@ Total mentions across all six scam indicators by app:
 
 ---
 
-# ⏳ Timing Patterns of Scam Escalation
+## ⏳ Timing Patterns of Scam Escalation
 
 Scammer interaction patterns were categorized into **Quick Escalation**, **Delayed Escalation**, and **No Mention** of escalation timing. This helps in understanding how rapidly scammers shift to manipulation and financial discussions.
 
@@ -172,7 +172,7 @@ Scammer interaction patterns were categorized into **Quick Escalation**, **Delay
 These insights reveal how scammers operate differently across platforms, both in behavioral red flags and in the timing of their manipulation attempts. Understanding these trends aids in creating detection mechanisms and preventive strategies within dating apps.
 
 
-# 🔗 4. Platforms Linked in Reviews
+## 🔗 4. Platforms Linked in Reviews
 
 Reviews frequently referenced external platforms, which were grouped into two main categories: **financial platforms** and **communication platforms**. These external services are often used by scammers to further manipulate or defraud users.
 
@@ -202,7 +202,7 @@ Reviews frequently referenced external platforms, which were grouped into two ma
 These references suggest a strong connection between scam attempts and off-platform communications or shady financial sites. Integration of link detection and warnings may help mitigate these risks.
 
 
-# 💔 5. Emotional and Financial Impacts
+## 💔 5. Emotional and Financial Impacts
 
 This section captures the **emotional** and **financial** harm experienced by users based on keyword-driven filtering of review texts. Emotional harm includes phrases related to heartbreak, being misled, or feeling betrayed, while financial harm includes explicit mentions of money lost or stolen.
 
@@ -240,7 +240,7 @@ This section captures the **emotional** and **financial** harm experienced by us
 These findings emphasize the real-world consequences of pig butchering scams — not just financial losses, but significant emotional distress for users. Dating platforms can benefit from incorporating emotional sentiment analysis and fraud-reporting tools.
 
 
-# 📊 6. App-Specific Trends
+## 📊 6. App-Specific Trends
 
 This section analyzes user complaints about **poor scam detection** mechanisms in dating apps and reviews suggesting **safety improvements**. Such feedback highlights the demand for stronger anti-scam systems.
 
@@ -265,7 +265,7 @@ These trends underline the need for dating platforms to invest in **scam reporti
 
 ---
 
-# ⭐ 7. Low Score Indicators
+## ⭐ 7. Low Score Indicators
 
 A significant portion of scam-related or dissatisfaction-driven reviews are marked with **low star ratings**, predominantly **1 or 2 stars**.
 
@@ -283,7 +283,7 @@ A significant portion of scam-related or dissatisfaction-driven reviews are mark
 These indicators show that **low-rated reviews are highly correlated** with scam reports and platform dissatisfaction. Filtering reviews by low scores can be an effective strategy to prioritize moderation and scam detection.
 
 
- # 👍 8. High “ThumbsUp” Count
+ ## 👍 8. High “ThumbsUp” Count
 
 User reviews with high **ThumbsUp** or "likes" reflect **widespread agreement or concern**, often signaling systemic issues such as scams. These reviews are likely to be more **visible and trusted** by the user community.
 
@@ -304,7 +304,7 @@ These numbers show that **popular dating apps** have numerous highly upvoted rev
 
 ---
 
-# 🛠️ 9. Response from Developers
+## 🛠️ 9. Response from Developers
 
 This section inspects the `replyContent` field to evaluate how frequently developers respond to reviews, especially those **mentioning scams**. Proactive responses can help rebuild **user trust** and indicate that the platform acknowledges scam-related concerns.
 
@@ -325,7 +325,7 @@ These results suggest that **some platforms are actively engaging** with users t
 
 [Google Play Store Results](https://docs.google.com/spreadsheets/d/1F_fKnJPWhuJjJUiX6J8HUmy67MvxfGvHm_3dNucsKa4/edit?usp=sharing)
 
-## Public Dataset
+# Public Dataset
 Apps: Tinder, Bumble, Plenty of Fish, Hinge
 Collected reviewId	userName	userImage	content	score	thumbsUpCount	reviewCreatedVersion	at	replyContent	repliedAt	appVersion
 
@@ -334,7 +334,7 @@ Collected reviewId	userName	userImage	content	score	thumbsUpCount	reviewCreatedV
 [Public Dataset Results](https://docs.google.com/spreadsheets/d/1_DDtXt-oNUFR8MkBBvxaI7PFHQb97AGdy9864VK-8oQ/edit?usp=sharing)
 
 
-## Social Media Platforms
+# Social Media Platforms
 
 **Reddit:**
 Query cerain subreddits using PRAW
@@ -352,7 +352,7 @@ Query using Hashtags
 Used rule-based keyword filtering
 link	text	user	likes	quotes	retweets	comments
 
-# Analysis
+## Analysis
 To enrich the understanding of pig butchering scams beyond app store reviews, data was collected from Reddit, Instagram, and Twitter (X). The following scam-related scenarios were extracted using rule-based keyword filtering, applied to the content field of each post or comment:
 1. Scammer Personas
 2. Common Tactics by Scammers
