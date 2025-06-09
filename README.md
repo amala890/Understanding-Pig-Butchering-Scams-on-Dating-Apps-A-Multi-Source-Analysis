@@ -2,14 +2,10 @@
 
 
 # Google Play Store Reviews
-Collected review data from 100 dating apps 
-
-Used rule-based keyword filtering
-
-Used google_play_scraper library in python using app_id
-
-CSV files are named using corresponding dating app names
-
+Collected review data from 100 dating apps <br>
+Used rule-based keyword filtering <br>
+Used google_play_scraper library in python using app_id <br>
+CSV files are named using corresponding dating app names <br>
 Collected reviewId	userName	userImage	content	score	thumbsUp	appVersion	at	replyContent	repliedAt	scam_related	is_scam	sentiment	app_name	thumbsUpCount	reviewCreatedVersion
 
 
@@ -17,8 +13,7 @@ Collected reviewId	userName	userImage	content	score	thumbsUp	appVersion	at	reply
 
  Divided into 9 main sections:
 1. Scam Indicators in User Reviews <br>
-User reviews were grouped based on the presence of scam-related keywords.
-
+User reviews were grouped based on the presence of scam-related keywords. <br>
 This serves as the ground truth data for further analysis. <br>
 Total scam-related reviews collected : 249722 <br>
 These reviews were grouped across 100 dating apps, sorted by increasing number of scam-related reviews per app.
