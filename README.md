@@ -55,7 +55,6 @@ Based on qualitative insights and keyword-based analysis of user reviews, six re
 
 
 **• Generic Profile Pictures** (7 Mentions)
-Reports of overly attractive or stock-style profile photos.
 
 Apps where this was mentioned:
 - **Once** – 2 mentions  
@@ -68,7 +67,6 @@ Apps where this was mentioned:
 ---
 
 **• Claims of Living Abroad** (15 Mentions)
-Scammer profiles often state they live or work abroad to justify avoiding in-person meetings.
 
 Apps where this was mentioned:
 - **OkCupid** – 4 mentions  
@@ -78,7 +76,6 @@ Apps where this was mentioned:
 ---
 
 **• Inconsistent Profile Information** (27,570 Mentions)
-Reviews highlighting mismatches between user bios and actual behavior or conversations.
 
 Top apps with the highest mentions:
 
@@ -93,7 +90,6 @@ Top apps with the highest mentions:
 ---
 
 **• Pushing Investment Opportunities** (1,030 Mentions)
-Scammer profiles promoting crypto, forex, or other dubious financial schemes.
 
 Top apps with the highest mentions:
 
@@ -108,7 +104,6 @@ Top apps with the highest mentions:
 ---
 
 **• Shifting Conversations to Off-Platform Channels** (29 Mentions)
-Scammers urging users to move chats to WhatsApp, Telegram, etc., to avoid platform moderation.
 
 Apps where this was mentioned:
 - **Once** – 5 mentions  
