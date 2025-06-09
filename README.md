@@ -43,12 +43,16 @@ These reviews were grouped across 100 dating apps, sorted by increasing number o
 
 **Results**
 
-AppName           <br>          Scam Review Count
- Tinder           <br>               31,391
- Bumble            <br>              21,253
- OkCupid           <br>              17,112
- Zoosk              <br>             15,955
- Plenty of Fish      <br>            12,844
+### 📊 **Results**
+
+| App Name        | Scam Review Count |
+|----------------|-------------------|
+| Tinder          | 31,391            |
+| Bumble          | 21,253            |
+| OkCupid         | 17,112            |
+| Zoosk           | 15,955            |
+| Plenty of Fish  | 12,844            |
+
 
  2. Profile and Behavioral Characteristics
 Used Keyword filtering on the the previously resulted dataset.
