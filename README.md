@@ -43,7 +43,6 @@ These reviews were grouped across 100 dating apps, sorted by increasing number o
 
 **Results**
 
-### 📊 **Results**
 
 | App Name        | Scam Review Count |
 |----------------|-------------------|
@@ -54,22 +53,29 @@ These reviews were grouped across 100 dating apps, sorted by increasing number o
 | Plenty of Fish  | 12,844            |
 
 
- 2. Profile and Behavioral Characteristics
+ 2. Profile and Behavioral Characteristics <br>
 Used Keyword filtering on the the previously resulted dataset.
-Six key scam-related characteristics were identified based on qualitative and keyword
-based analysis of dating app user reviews:
- • Generic Profile Pictures– Reports of profiles using overly attractive or stock-style
- images.
- • Claims of Living Abroad– Mentions of users who state they live or work in
- another country.
- • Inconsistent Profile Information– Comments highlighting mismatched details
- between profile descriptions and actual conversation.
- • Pushing Investment Opportunities– Reviews noting that a user persistently
- promoted financial schemes or trading.
- • Shifting Conversations to Off-Platform Channels– Observations that the user
- insisted on moving to WhatsApp, Telegram, etc.
- • Avoiding Video Calls or In-Person Meetings– Complaints about users who
- repeatedly made excuses to avoid face-to-face communication.
+
+Based on qualitative insights and keyword-based analysis of user reviews, six recurring characteristics associated with pig butchering scams were identified:
+
+1. **Generic or Unrealistic Profile Pictures**  
+   Users reported encountering profiles with overly attractive, professional, or stock-style images—often reused across different apps.
+
+2. **Claims of Living or Working Abroad**  
+   Many scammers claimed to be temporarily or permanently located in a different country, making in-person meetings impractical.
+
+3. **Inconsistent Profile Information**  
+   Reviewers noted discrepancies between a user’s profile description and the content of their messages, suggesting fake or copied profiles.
+
+4. **Persistent Promotion of Investment Opportunities**  
+   Several reviews described users who gradually shifted conversations toward cryptocurrency, stock trading, or other financial schemes.
+
+5. **Shifting Communication to External Platforms**  
+   A common tactic involved urging victims to move the conversation from the dating app to platforms like WhatsApp, Telegram, or Line—reducing platform oversight.
+
+6. **Avoidance of Video Calls or In-Person Meetings**  
+   Users frequently reported that scammers made repeated excuses to avoid video calls or real-life meetings, maintaining an anonymous and untraceable presence.
+
 
 **Results**
 • Generic Profile Pictures (7)
