@@ -203,6 +203,11 @@ Posts that discuss scam experiences not matching any of the predefined keyword-b
 Results:
 [Social Media Count](https://docs.google.com/spreadsheets/d/1VnSGZurTh2rxqB3xIeeg1QAnYYXezteyVVZ0qS7XuVI/edit?usp=sharing)
 
+# Public Dataset
+[Public Dataset Results](https://docs.google.com/spreadsheets/d/1_DDtXt-oNUFR8MkBBvxaI7PFHQb97AGdy9864VK-8oQ/edit?usp=sharing)
+
+
+
 
 
 
