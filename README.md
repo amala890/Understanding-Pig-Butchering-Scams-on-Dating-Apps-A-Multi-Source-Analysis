@@ -12,7 +12,7 @@ Collected reviewId	userName	userImage	content	score	thumbsUp	appVersion	at	reply
 ## Analysis
 
  Divided into 9 main sections:
-1. Scam Indicators in User Reviews <br>
+# 📌 1. Scam Indicators in User Reviews
 User reviews were grouped based on the presence of scam-related keywords. <br>
 This serves as the ground truth data for further analysis. <br>
 Total scam-related reviews collected : 249722 <br>
@@ -30,7 +30,7 @@ These reviews were grouped across 100 dating apps, sorted by increasing number o
 | Plenty of Fish  | 12,844            |
 
 
- 2. Profile and Behavioral Characteristics <br>
+# 👤 2. Profile and Behavioral Characteristics
 Used Keyword filtering on the the previously resulted dataset.
 
 Based on qualitative insights and keyword-based analysis of user reviews, six recurring characteristics associated with pig butchering scams were identified:
@@ -55,10 +55,10 @@ Based on qualitative insights and keyword-based analysis of user reviews, six re
 
 
 **Results**
-## • Generic Profile Pictures (7 Mentions)
+**• Generic Profile Pictures** (7 Mentions)
 Reports of overly attractive or stock-style profile photos.
 
-**Apps where this was mentioned:**
+Apps where this was mentioned:
 - **Once** – 2 mentions  
 - **Tinder** – 1 mention  
 - **Bumble** – 1 mention  
@@ -68,20 +68,20 @@ Reports of overly attractive or stock-style profile photos.
 
 ---
 
-## • Claims of Living Abroad (15 Mentions)
+**• Claims of Living Abroad** (15 Mentions)
 Scammer profiles often state they live or work abroad to justify avoiding in-person meetings.
 
-**Apps where this was mentioned:**
+Apps where this was mentioned:
 - **OkCupid** – 4 mentions  
 - **DilMil** – 2 mentions  
 - **Once**, **Bumble**, **Tinder**, **Jaumo**, **Scruff**, **eHarmony**, **The Inner Circle** – 1 mention each
 
 ---
 
-## • Inconsistent Profile Information (27,570 Mentions)
+**• Inconsistent Profile Information** (27,570 Mentions)
 Reviews highlighting mismatches between user bios and actual behavior or conversations.
 
-**Top apps with the highest mentions:**
+Top apps with the highest mentions:
 
 | App Name        | Inconsistent Profile Mentions |
 |-----------------|-------------------------------|
@@ -93,10 +93,10 @@ Reviews highlighting mismatches between user bios and actual behavior or convers
 
 ---
 
-## • Pushing Investment Opportunities (1,030 Mentions)
+**• Pushing Investment Opportunities** (1,030 Mentions)
 Scammer profiles promoting crypto, forex, or other dubious financial schemes.
 
-**Top apps with the highest mentions:**
+Top apps with the highest mentions:
 
 | App Name        | Investment-Related Mentions |
 |-----------------|-----------------------------|
@@ -108,24 +108,23 @@ Scammer profiles promoting crypto, forex, or other dubious financial schemes.
 
 ---
 
-## • Shifting Conversations to Off-Platform Channels (29 Mentions)
+**• Shifting Conversations to Off-Platform Channels** (29 Mentions)
 Scammers urging users to move chats to WhatsApp, Telegram, etc., to avoid platform moderation.
 
-**Apps where this was mentioned:**
+Apps where this was mentioned:
 - **Once** – 5 mentions  
 - **OkCupid**, **Tantan**, **Bumble** – 2 mentions each  
 - **Taimi**, **Date My Age**, **Grindr**, **Yoomee**, **Teamo**, **Vibe**, **Amolatina** – 1 mention each
 
-# 🧠 Behavioral Traits and Timing Patterns in Pig Butchering Scams
-
-In addition to previously identified scam indicators, further analysis uncovered a less frequent but relevant behavioral trait: **Avoiding Video Calls or In-Person Meetings**. Timing patterns in scam progression were also studied to understand how quickly scammers escalate interactions.
+In addition to previously identified scam indicators, further analysis uncovered a less frequent but relevant behavioral trait: 
+**Avoiding Video Calls or In-Person Meetings**. Timing patterns in scam progression were also studied to understand how quickly scammers escalate interactions.
 
 ---
 
-## • Avoiding Video Calls or In-Person Meetings (2 Mentions)
+**• Avoiding Video Calls or In-Person Meetings** (2 Mentions)
 This behavioral trait was mentioned less frequently than others, but still appeared in reviews, suggesting a known avoidance tactic by scammers.
 
-**Apps where this was mentioned:**
+Apps where this was mentioned:
 - **Tantan**
 - **Bumble**
 
