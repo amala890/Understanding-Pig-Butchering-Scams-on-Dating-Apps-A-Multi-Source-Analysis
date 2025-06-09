@@ -347,6 +347,8 @@ This section inspects the `replyContent` field to evaluate how frequently develo
 
 These results suggest that **some platforms are actively engaging** with users through replies. However, **the quality and relevance** of these replies would need further inspection to determine if they effectively address scam-related issues.
 
+[Google Play Store Results](https://docs.google.com/spreadsheets/d/1F_fKnJPWhuJjJUiX6J8HUmy67MvxfGvHm_3dNucsKa4/edit?usp=sharing)
+
 
 # Public Dataset
 
