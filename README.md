@@ -188,6 +188,24 @@ AppName      Response Count
 
 
 
+## Social Media Platforms
+To enrich the understanding of pig butchering scams beyond app store reviews, data was collected from Reddit, Instagram, and Twitter (X). The following scam-related scenarios were extracted using rule-based keyword filtering, applied to the content field of each post or comment:
+1. Scammer Personas
+2. Common Tactics by Scammers
+4. Duration of Interaction
+5. Countries with Most Scam Reports
+6. Financial Loss Incurred
+7. Dating App Analysis
+
+After labeling the above scenarios, associated dating app names were extracted from each post (where available) to map scam reports back to specific platforms.
+Posts that discuss scam experiences not matching any of the predefined keyword-based heuristics but still relevant to the broader context are categorised to "Other". Posts that do not provide sufficient context or do not contain recognizable keywords related to scams, tactics, losses, or app mentions  are categorised to "Unknown".
+
+Results:
+[Social Media Count](https://docs.google.com/spreadsheets/d/1VnSGZurTh2rxqB3xIeeg1QAnYYXezteyVVZ0qS7XuVI/edit?usp=sharing)
+
+
+
+
 
 
 
