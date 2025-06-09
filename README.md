@@ -58,22 +58,22 @@ Used Keyword filtering on the the previously resulted dataset.
 
 Based on qualitative insights and keyword-based analysis of user reviews, six recurring characteristics associated with pig butchering scams were identified:
 
-1. **Generic or Unrealistic Profile Pictures**  
+1. Generic or Unrealistic Profile Pictures  
    Users reported encountering profiles with overly attractive, professional, or stock-style images—often reused across different apps.
 
-2. **Claims of Living or Working Abroad**  
+2. Claims of Living or Working Abroad
    Many scammers claimed to be temporarily or permanently located in a different country, making in-person meetings impractical.
 
-3. **Inconsistent Profile Information**  
+3. Inconsistent Profile Information  
    Reviewers noted discrepancies between a user’s profile description and the content of their messages, suggesting fake or copied profiles.
 
-4. **Persistent Promotion of Investment Opportunities**  
+4. Persistent Promotion of Investment Opportunities  
    Several reviews described users who gradually shifted conversations toward cryptocurrency, stock trading, or other financial schemes.
 
-5. **Shifting Communication to External Platforms**  
+5. Shifting Communication to External Platforms 
    A common tactic involved urging victims to move the conversation from the dating app to platforms like WhatsApp, Telegram, or Line—reducing platform oversight.
 
-6. **Avoidance of Video Calls or In-Person Meetings**  
+6. Avoidance of Video Calls or In-Person Meetings 
    Users frequently reported that scammers made repeated excuses to avoid video calls or real-life meetings, maintaining an anonymous and untraceable presence.
 
 
