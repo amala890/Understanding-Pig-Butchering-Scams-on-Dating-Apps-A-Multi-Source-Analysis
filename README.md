@@ -1,16 +1,20 @@
 # Understanding Pig Butchering Scams Targeting Dating App Users: A Multi-Source Analysis
 
 
-## Google Play Store Reviews
-Collected review data from 100 dating apps
+# Google Play Store Reviews
+Collected review data from 100 dating apps 
+
 Used rule-based keyword filtering
+
 Used google_play_scraper library in python using app_id
+
 CSV files are named using corresponding dating app names
+
 Collected reviewId	userName	userImage	content	score	thumbsUp	appVersion	at	replyContent	repliedAt	scam_related	is_scam	sentiment	app_name	thumbsUpCount	reviewCreatedVersion
 
 
-# Analysis
-## Google Play Store
+## Analysis
+
  Divided into 9 main sections:
 1. Scam Indicators in User Reviews <br>
 User reviews were grouped based on the presence of scam-related keywords.
