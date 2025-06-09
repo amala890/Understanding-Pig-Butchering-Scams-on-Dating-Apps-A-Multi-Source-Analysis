@@ -42,7 +42,7 @@ Total scam-related reviews collected : 249722 <br>
 These reviews were grouped across 100 dating apps, sorted by increasing number of scam-related reviews per app.
 
 **Results**
-AppName                     Scam Review Count
+AppName           <br>          Scam Review Count
  Tinder           <br>               31,391
  Bumble            <br>              21,253
  OkCupid           <br>              17,112
