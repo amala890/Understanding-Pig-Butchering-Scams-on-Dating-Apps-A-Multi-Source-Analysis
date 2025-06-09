@@ -35,7 +35,7 @@ link	text	user	likes	quotes	retweets	comments
 # Analysis
 ## Google Play Store
  Divided into 9 main sections:
-1. Scam Indicators in User Reviews
+1. Scam Indicators in User Reviews <br>
 User reviews were grouped based on the presence of scam-related keywords.
 This serves as the ground truth data for further analysis.
 Total scam-related reviews collected : 249722
