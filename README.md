@@ -326,7 +326,7 @@ These results suggest that **some platforms are actively engaging** with users t
 [Google Play Store Results](https://docs.google.com/spreadsheets/d/1F_fKnJPWhuJjJUiX6J8HUmy67MvxfGvHm_3dNucsKa4/edit?usp=sharing)
 
 # Public Dataset
-Apps: Tinder, Bumble, Plenty of Fish, Hinge
+Apps: Tinder, Bumble, Plenty of Fish, Hinge <br>
 Collected reviewId	userName	userImage	content	score	thumbsUpCount	reviewCreatedVersion	at	replyContent	repliedAt	appVersion
 
 ## Analysis
