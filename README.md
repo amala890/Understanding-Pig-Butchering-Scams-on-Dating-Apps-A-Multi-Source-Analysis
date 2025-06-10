@@ -6,7 +6,7 @@ Collected review data from 100 dating apps <br>
 Used rule-based keyword filtering <br>
 Used google_play_scraper library in python using app_id <br>
 CSV files are named using corresponding dating app names <br>
-Collected reviewId	userName	userImage	content	score	thumbsUp	appVersion	at	replyContent	repliedAt	scam_related	is_scam	sentiment	app_name	thumbsUpCount	reviewCreatedVersion
+Collected reviewId	userName	userImage	content	score	thumbsUp	appVersion	at	replyContent	repliedAt	scam_related	
 
 
 ## Analysis
