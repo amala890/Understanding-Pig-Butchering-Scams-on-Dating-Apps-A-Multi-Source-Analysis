@@ -44,7 +44,7 @@ Based on qualitative insights and keyword-based analysis of user reviews, six re
 3. Inconsistent Profile Information  <br>
    Reviewers noted discrepancies between a user’s profile description and the content of their messages, suggesting fake or copied profiles.
 
-4. Persistent Promotion of Investment Opportunities <br>  
+4. Persistent Promotion of Investment Opportunities  <br>  
    Several reviews described users who gradually shifted conversations toward cryptocurrency, stock trading, or other financial schemes.
 
 5. Shifting Communication to External Platforms <br>
@@ -111,7 +111,6 @@ Apps where this was mentioned:
 - **Taimi**, **Date My Age**, **Grindr**, **Yoomee**, **Teamo**, **Vibe**, **Amolatina** – 1 mention each
 
 **• Avoiding Video Calls or In-Person Meetings** (2 Mentions)
-This behavioral trait was mentioned less frequently than others, but still appeared in reviews, suggesting a known avoidance tactic by scammers.
 
 Apps where this was mentioned:
 - **Tantan**
