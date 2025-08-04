@@ -327,6 +327,7 @@ Collected reviewId	userName	userImage	content	score	thumbsUpCount	reviewCreatedV
 # Social Media Platforms
  A total of 10,944 original posts were gathered from 9,248 individual social media profiles, where we identified 935 mentions of pig butchering victims
  scams.
+ 
 **Reddit:**
 
 Query cerain subreddits using PRAW <br>
