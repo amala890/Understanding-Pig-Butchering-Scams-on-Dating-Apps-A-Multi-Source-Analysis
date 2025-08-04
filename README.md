@@ -359,6 +359,20 @@ Results:
 [Social Media Count](https://docs.google.com/spreadsheets/d/1VnSGZurTh2rxqB3xIeeg1QAnYYXezteyVVZ0qS7XuVI/edit?usp=sharing)
 
 
+## Analysis of Google Play Store reviews indicating pig butchering scam victimization
+[Victims Google Play Store](https://docs.google.com/spreadsheets/d/1MqBtpQJQviiclzhyK21ksimaF3GJQ0gRJoDhjWPwDVI/edit?usp=sharing)
+
+## Analysis of Google Play Store reviews indicating pig butchering scam victimization
+[Victims Public Dataset](https://docs.google.com/spreadsheets/d/1Y8-tSYeO7IqjblgOmvZBmZ3FSxbl7xveQpJELflIOG8/edit?usp=sharing)
+
+## Analysis of Social Media Platforms indicating pig butchering scam victimization
+[Victims Social Media Platforms](https://docs.google.com/spreadsheets/d/1RHlCl71a7s1sp08kWuqzxMUl1lCoUM5zoAmMsIc_16I/edit?usp=sharing)
+
+
+
+
+
+
 
 
 
