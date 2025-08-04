@@ -3,6 +3,7 @@
 
 # Google Play Store Reviews
 Collected review data from 100 dating apps <br>
+Collected dataset includes 1,357,222 user reviews <br>
 Used rule-based keyword filtering <br>
 Used google_play_scraper library in python using app_id <br>
 CSV files are named using corresponding dating app names <br>
@@ -315,6 +316,7 @@ These results suggest that **some platforms are actively engaging** with users t
 
 # Public Dataset
 Apps: Tinder, Bumble, Plenty of Fish, Hinge <br>
+Collected dataset includes 1,919,776 user reviews from a public dataset from Kaggle <br>
 Collected reviewId	userName	userImage	content	score	thumbsUpCount	reviewCreatedVersion	at	replyContent	repliedAt	appVersion
 
 ## Analysis
@@ -323,7 +325,8 @@ Collected reviewId	userName	userImage	content	score	thumbsUpCount	reviewCreatedV
 
 
 # Social Media Platforms
-
+ A total of 10,944 original posts were gathered from 9,248 individual social media profiles, where we identified 935 mentions of pig butchering victims
+ scams.
 **Reddit:**
 
 Query cerain subreddits using PRAW <br>
@@ -360,12 +363,15 @@ Results:
 
 
 ## Analysis of Google Play Store reviews indicating pig butchering scam victimization
+Analysis revealed 376 victims of pig butchering from Google Play Store reviews 
 [Victims Google Play Store](https://docs.google.com/spreadsheets/d/1MqBtpQJQviiclzhyK21ksimaF3GJQ0gRJoDhjWPwDVI/edit?usp=sharing)
 
 ## Analysis of Google Play Store reviews indicating pig butchering scam victimization
+Analysis revealed 199 victims of pig butchering from public dataset
 [Victims Public Dataset](https://docs.google.com/spreadsheets/d/1Y8-tSYeO7IqjblgOmvZBmZ3FSxbl7xveQpJELflIOG8/edit?usp=sharing)
 
 ## Analysis of Social Media Platforms indicating pig butchering scam victimization
+Analysis revealed 935 mentions of pig butchering scam victims.
 [Victims Social Media Platforms](https://docs.google.com/spreadsheets/d/1RHlCl71a7s1sp08kWuqzxMUl1lCoUM5zoAmMsIc_16I/edit?usp=sharing)
 
 
