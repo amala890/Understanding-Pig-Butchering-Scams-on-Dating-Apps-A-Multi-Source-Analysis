@@ -1,42 +1,105 @@
-Keywords used:
-	    "scam",
-            "Pig butchering",
-            "Pig-baiting",
-            "Investment scam",
-            "Financial scam",
-            "Fraudulent investment",
-            "Scam experience",
-            "Scammer tactics",
-            "Scam victim",
-            "Fake investment",
-            "Crypto scam",
-            "Romance scam",
-            "Ponzi scheme",
-            "Phishing",
-            "Fake app",
-            "Malicious website",
-            "Telegram scam",
-            "WhatsApp scam",
-            "Signal scam",
-            "Text message scam",
-            "Dating app scam"
-           "piggy bank fraud",
-            "oink crypto scheme",
-            "piggery scam",
-            "boar coin fraud",
-            "piglet investment scam",
-            "sty crypto swindle",
-            "hog pen scheme",
-            "sow crypto scam",
-            "piggy scam",
-            "boar market fraud",
-            "pig farm scheme",
-            "pigpen investment scam",
-            "oinker crypto fraud",
-            "porker scam",
-            "boar butcher scam",
-            "pigsty investment fraud",
-            "pig trough scam",
-            "piglet coin fraud",
-            "swineherd crypto scam",
+ # Reddit Keywords
+ lovescams, phonescams, nigeriascams, Dating app scam, Pig butchering,
+ cryptocscams, Pig-baiting, Investment scam, Financial scam, romancescams,
+ Telegram scam, WhatsApp scam, Signal scam, Text message scam,
+ scam, Fraudulent investment, Scam experience, Scammer tactics,
+ Scam victim, Fake investment, Crypto scam, Romance scam, Ponzi
+ scheme, Phishing, Fake app, Malicious website, piggy bank fraud,
+ oink crypto scheme, piggery scam, boar coin fraud, piglet investment
+ scam, sty crypto swindle, hog pen scheme, sow crypto scam, piggy
+ scam, boar market fraud, pig farm scheme, pigpen investment scam,
+ oinker crypto fraud, porker scam, boar butcher scam, pigsty investment
+ fraud, pig trough scam, piglet coin fraud, swineherd crypto scam,
+ boar butchered investment
+
+ # Instagram Hashtags
+ bumblenightmares, bumblescam, catfishingstory, datewithapurpose,
+ datingappfraud, datingapps, datingappscam, DatingFrauds, datingscam,
+ datingscammers, datingscamsuk, lovescam, onlinedatingfraud, onlinedatingscam,
+ onlineromancescam, onlineromancescammers, PigButcheringScam,
+ romancefraudvictims, romancecam, romancescammer, ScamAlert, scams,
+ tindernightmares, tinderscams, tinderswindler
+ 
+ # Twitter/X Keywords
+ Bumblescam, crypto scam dating, datingapps, datingscam, honeytrap,
+ internet dating scam, online dating scam, profilescam, DatingAppScammers,
+ DatingFraud, IdentityTheft, LoveScam/s, PigButchering, romancescam,
+ Scammed on dating app, scams, TinderInvestmentFraud, crypto,
+ DatingAppFraud, tinderscam, HoneyTrap, onlinedating, HumanTrafficking,
+ RomanceFraud, InternetDatingScam, love fraud detector
+
+ # Google Play Store Keywords
+ Investment, fraud, fake profiles, cheat, hacked, stolen, money,
+ Bitcoin, trading platform, cryptocurrency, romancescam,
+ Gained my trust, asked for money, built a relationship,
+ pig-butchering, phishing, dating app scam, scam, crypto scam, fake investor,
+ met on app, too good to be true, pretended to care, scammer profile,  unrealistic returns, 
+investment advice, moved to WhatsApp, Telegram scam,
+ trust then steal, long distance lover, romantic scam, suspicious profile,
+ pressure to invest, fake trading app, crypto wallet, impossible to withdraw,
+ money gone, promised profits, financial manipulation, romantic manipulation
+
+# Victim Keywords (for Review Filtering)
+ romance scam, pig butchering, crypto scam, investment scam,
+ crypto romance scam, financial scam, crypto fraud, crypto scheme,
+ crypto trading scam, lost my savings, fake investment, fake platform,
+ asked me to invest, pushed me to invest, asked me to download
+ an app, they introduced me to a mentor, built trust and then,
+ pressured me to invest, sent me a trading link, i was added to
+ a crypto group, talked for weeks before asking for money, he
+ said he was a crypto trader, she said she worked in crypto, claimed
+ to help me invest, showed fake profits, sent screenshots of returns,
+ i trusted them with my savings, couldn’t withdraw, wallet got
+ drained, they tricked me, they promised high returns, used a
+ fake trading app, sent money and then they disappeared, they
+ ghosted me after i sent money, said we were soulmates and then
+ asked for bitcoin, said they lived abroad and needed help, they
+ wanted me to transfer crypto, i lost thousands, money vanished,
+ i got duped, i was defrauded, they convinced me to invest, he
+ made me believe it was real, promised guaranteed profits, told
+ me i could double my money, we met on a dating app and then...,
+ fake broker, binance scam, metamask scam, they blocked me after
+ i paid, i thought it was love, everything seemed perfect until,
+ money came up, I ¯ (was) (cheated|tricked|deceived|manipulated),
+I  (invested|put|sent|transferred) (money|funds|savings),  ( convinced
+ me|pressured me|pushed me) to invest,  pretended to (love|care
+ for) me,  we (talked|chatted) (daily|for weeks|for months),  (started
+ a|built a) (relationship|connection),  promised (high returns|guaranteed
+ profit|financial freedom),  showed me fake (profits|returns|screenshots), 
+ (WhatsApp|Telegram|WeChat|Line|Skype) for chatting, moved
+ to another (app|platform|chat),  no (video call|phone call|meetup|in-person
+ meeting), lost (everything|my savings|my money to fraud), wasn’t
+ able to withdraw, fake (trading|crypto) app,
+ scammed by (lover|partner|romance), ¯ crypto (scam|fraud|investment), 
+ (fake|fraudulent) (broker|advisor|mentor|platform|signals), my
+ (wallet|account|balance) was emptied, romance (scammer|fraudster),
+ love (scam|scammer|fraudster)
+
+ # Scammer Personas
+ businessman, entrepreneur, executive, ceo, investor, startup founder,
+ financial advisor, hedge fund manager, stock trader, real estate,venture capitalist,
+ doctor, engineer, lawyer, military, pilot, surgeon, navy, army, marine,
+ air force, architect, consultant, IT specialist, scientist, diplomat,
+ professor, researcher, UN official, NGO worker,  rich, wealthy, successful, millionaire, billionaire, luxury lifestyle,
+ private jet, expensive car, branded watch, Gucci, Rolex, yacht,
+ designer clothes, luxury vacation
+
+ # Google Play Review Filtering Keywords
+ investment, crypto, Bitcoin, trading, profits, returns, money,
+ financial advisor, business opportunity, forex, stock market, wealth,
+ passive income, get rich quick, high returns, low risk, financial freedom,
+ cryptocurrency, blockchain, wallet address, send money, bank transfer,
+ payment, funds, scam, fraud, fake, cheat, swindle, con artist,
+ scammer, scamming, scammed, trust, love, relationship, romance,
+ emotional, manipulation, soulmate, marriage, commitment, future together,
+ true love, heartbroken, broken trust, lied to, deceived, betrayed,
+ fake love, pretend, emotional scam, romance scam, catfish, fake profile,
+ fake identity, fake person, fake account, too good to be true,
+ frequent traveler, living abroad, avoid meeting, external app,
+ WhatsApp, Telegram, Skype, Line, WeChat, move to another app,
+ private chat, secretive, no video call, no phone call, no meetup,
+ avoid in-person, long distance
+
+
+
             "boar butchered investment"
